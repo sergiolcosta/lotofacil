@@ -1,5 +1,7 @@
 Projeto pessoal de Análise de Dados. Nele, analiso os dados referente a todos os jogos da história da Lotofácil (Loterias do Brasil). 
 
+Nesse projeto, utilizo a linguagem Python e o Jupyter Notebook.
+
 Nesse projeto dá para tirar vários insights sobre o comportamento dos dados durante todo o período dos jogos ocorridos.
 
 Realizei também a análise com os últimos 15 jogos. Com esse estudo, não dá para garantir o acerto na Lotofácil, mas dá para se aproximar no padrão dos jogos.
